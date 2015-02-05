@@ -1,2 +1,1 @@
-# gauthiier.github.io
 wwwrite
